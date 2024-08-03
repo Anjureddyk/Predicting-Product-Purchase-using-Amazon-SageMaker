@@ -5,7 +5,7 @@ This cloud-based machine learning platform provides a scalable and efficient env
 ## Prerequisites
 Before you start the project, ensure that you have the following prerequisites:
 
-Python (version X.X)
+Python (version 3.9)
 Jupyter Notebook (for data exploration and model development)
 Libraries such as NumPy, Pandas, Scikit-Learn for data manipulation and machine learning
 Access to a dataset containing relevant data, such as customer information, product details, and purchase history
